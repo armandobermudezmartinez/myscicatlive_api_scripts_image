@@ -1,0 +1,17 @@
+{
+  "ownerGroup": "ingestor",
+  "owner": "ingestor",
+  "ownerEmail": "scicat@ingestor.site",
+  "contactEmail": "scicat@ingestor.site",
+  "sourceFolder": "/nfs",
+  "sourceFolderHost": "sourcefolder.host",
+  "creationTime": "2024-10-17T15:41:24.347Z",
+  "type": "raw",
+  "description": "test for origdatablocks",
+  "datasetName": "origdatablocks test",
+  "principalInvestigator": "John Doe",
+  "creationLocation": "Hamburg",
+  "investigator": "scicatingestor@your.site",
+  "inputDatasets": "",
+  "usedSoftware": ""
+}

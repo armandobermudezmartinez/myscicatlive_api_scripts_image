@@ -1,0 +1,17 @@
+{
+  "ownerGroup": "ingestor",
+  "size": 0,
+  "chkAlg": "string",
+  "dataFileList": [
+    {
+      "path": "string",
+      "size": 0,
+      "time": "2024-10-17T11:16:52.470Z",
+      "chk": "string",
+      "uid": "string",
+      "gid": "string",
+      "perm": "string"
+    }
+  ],
+  "datasetId": "undefined/f88bfa10-b860-464f-a814-7bd3aadc209b"
+}
